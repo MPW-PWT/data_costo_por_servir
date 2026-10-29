@@ -1,0 +1,5 @@
+Copyright (c) 2026 Ing. Henry Martinez. All rights reserved.
+
+El código fuente y la arquitectura de este proyecto son propiedad exclusiva del
+Ing. Henry Martinez. Queda prohibida la reproducción, distribución o modificación
+sin autorización expresa del autor.
